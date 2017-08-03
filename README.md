@@ -1,2 +1,2 @@
 # Assignment-ITOO121
-ITOO121 Assignment questions, NOT FOR REUSE , REDISTRIBUTION OR PERSIONALE USE
+ITOO121 Assignment questions
